@@ -36,7 +36,7 @@ const Hero: React.FC = () => {
           <div className="md:w-1/2 flex justify-center md:justify-end">
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-8 border-white dark:border-gray-800 shadow-2xl transform hover:scale-105 transition-transform duration-300">
               <img
-                src="./src/components/PUBLIC/SHIVA.jpg"
+                src="/src/components/PUBLIC/SHIVA.jpg"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
